@@ -1,14 +1,21 @@
+/* Created by: Ryan-Shaw-2
+* Created on: Apr 27, 2021
+* This CSS file defines the syle for index.html ICS2O-Unit1-03-HTML-CSS
+*/
 
 body {
   background-color: powderblue;
 }
+
 h1 {
   background-color: rgb(252, 3, 3);
   color: rgb(3, 252, 169);
   font-family: verdana;
   padding: 40px;
   text-align: center;
-    }
+}
+
 p {
-  background-color: #fcbe03; font-family:courier;
+  background-color: #fcbe03; 
+  font-family: 'Courier New', Courier, monospace;
 }
