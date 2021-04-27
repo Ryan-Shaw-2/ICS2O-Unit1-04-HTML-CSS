@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: powderblue;
+  background-color: rgb(230, 74, 27);
 }
 
 h1 {
@@ -21,7 +21,7 @@ p {
 }
 
 ul {
-  color: rgb(7, 75, 7);
+  color: rgb(16, 199, 16);
   font-family: 'Times New Roman', Times, serif;
 }
 
