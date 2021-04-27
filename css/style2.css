@@ -4,19 +4,19 @@
 */
 
 body {
-  background-color: powderblue
+  background-color: powderblue;
 }
 
 h1 {
   background-color: rgb(7, 3, 252);
   color: rgb(3, 252, 231);
-  font-family: verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #fcbe03; 
+  background-color: #fcbe03;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -24,7 +24,7 @@ ul {
   color: black;
 }
 
-ul li::before{
+ul li::before {
   content: "✅";
 }
 
@@ -43,5 +43,5 @@ td {
   height: 2rem;
   background: #fcbe03;
   border: 1px solid black;
-  text-align: center
+  text-align: center;
 }

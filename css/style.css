@@ -10,12 +10,12 @@ body {
 h1 {
   background-color: rgb(252, 3, 3);
   color: rgb(3, 252, 169);
-  font-family: verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #fcbe03; 
+  background-color: #fcbe03;
   font-family: 'Courier New', Courier, monospace;
 }
