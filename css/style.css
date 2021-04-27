@@ -1,0 +1,14 @@
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  background-color: rgb(252, 3, 3);
+  color: rgb(3, 252, 169);
+  font-family: verdana;
+  padding: 40px;
+  text-align: center;
+    }
+p {
+  background-color: #fcbe03; font-family:courier;
+}
