@@ -8,14 +8,22 @@ body {
 }
 
 h1 {
-  background-color: rgb(252, 3, 3);
-  color: rgb(3, 252, 169);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(3, 20, 252);
+  color: rgb(3, 223, 252);
+  font-family: 'Times New Roman', Times, serif;
   padding: 40px;
   text-align: center;
 }
 
 p {
   background-color: #fcbe03;
-  font-family: 'Courier New', Courier, monospace;
+  color: blue;
+  font-family: fantasy, serif;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

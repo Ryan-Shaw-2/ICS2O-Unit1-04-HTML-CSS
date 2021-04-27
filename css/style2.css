@@ -10,18 +10,19 @@ body {
 h1 {
   background-color: rgb(7, 3, 252);
   color: rgb(3, 252, 231);
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   padding: 40px;
   text-align: center;
 }
 
 p {
   background-color: #fcbe03;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: fantasy, serif;
 }
 
 ul {
-  color: black;
+  color: rgb(7, 75, 7);
+  font-family: 'Times New Roman', Times, serif;
 }
 
 ul li::before {
@@ -35,6 +36,8 @@ table {
 th {
   height: 2rem;
   background: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
   border: 1px solid black;
   text-align: left;
 }
